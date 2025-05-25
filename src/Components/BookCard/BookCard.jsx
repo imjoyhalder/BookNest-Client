@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const BookCard = ({ book }) => {
     return (
-        <Link to={`booksDetails/${book._id}`}>
+        <Link to={`bookDetails/${book._id}`}>
             <motion.div
                 initial={{ opacity: 0, y: 50 }}
                 animate={{ opacity: 1, y: 0 }}
