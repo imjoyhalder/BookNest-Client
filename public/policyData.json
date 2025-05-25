@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Return & Refund",
+    "description": "Money back guarantee",
+    "image" : "https://img.icons8.com/?size=80&id=115856&format=png"
+  },
+  {
+    "title": "Secure Payment",
+    "description": "30% off by subscribing",
+    "image" : "https://img.icons8.com/?size=50&id=74519&format=png"
+  },
+  {
+    "title": "Quality Support",
+    "description": "Always online 24/7",
+    "image" : "https://img.icons8.com/?size=50&id=11162&format=png"
+  },
+  {
+    "title": "Daily Offers",
+    "description": "20% off by subscribing", 
+    "image" : "https://img.icons8.com/?size=50&id=36044&format=png"
+  }
+]
