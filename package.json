@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "booknest-client": "file:",
     "daisyui": "^5.0.37",
+    "framer-motion": "^12.12.2",
     "localforage": "^1.10.0",
     "match-sorter": "^8.0.2",
     "react": "^19.1.0",
